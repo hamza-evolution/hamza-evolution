@@ -1,27 +1,21 @@
 <div align="center">
-  <img src="https://boss-telegram-ai.onrender.com/cyber_banner.svg" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1600&pause=300&color=00FF41&center=true&vCenter=true&width=820&lines=%5BROOT%40HAMZA-EVOLUTION%5D+BREACHING+LIMITS+WITH+AUTONOMOUS+AI;%5B0x01%5D+MULTI-AGENT+NEURAL+SWARMS+%26+EDGE+ROUTERS;%5B0x02%5D+HIGH-SPEED+RECON+%26+ZERO-TOKEN+KERNELS;%5B0x03%5D+ALL+SYSTEMS+LOCKED+%26+OPERATIONAL+24%2F7" />
-  <img src="./assets/cyber_pulse.svg" width="100%" />
+  <a href="https://hamza-evolution.github.io"><img src="https://boss-telegram-ai.onrender.com/cyber_banner_v2.svg" width="100%" alt="20-Layout Cyber Banner" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&color=00FF41&center=true&vCenter=true&width=780&lines=20+STRUCTURAL+HACKER+ARCHITECTURES+ACTIVE;TAP+ANY+MODULE+BELOW+TO+LAUNCH+SOURCE+CODE;LIVE+INTERACTIVE+OS+AT+HAMZA-EVOLUTION.GITHUB.IO" />
+  <br/>
+  <a href="https://hamza-evolution.github.io"><img src="https://img.shields.io/badge/LAUNCH_LIVE_20--LAYOUT_HACKER_OS-00FF41?style=for-the-badge&logo=gnometerminal&logoColor=black" /></a>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/ROOT_OS-KALI_%2F_UBUNTU-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=050B14" /> <img src="https://img.shields.io/badge/ENGINE-PYTHON_ASYNC-00E5FF?style=for-the-badge&logo=python&logoColor=black&labelColor=050B14" /> <img src="https://img.shields.io/badge/MOBILE-KOTLIN_DEX-FF0055?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=050B14" /> <img src="https://img.shields.io/badge/TUNNEL-CLOUDFLARE_EDGE-FDE047?style=for-the-badge&logo=cloudflare&logoColor=black&labelColor=050B14" />
-</div>
+### `>_` CLICKABLE TACTICAL REPOSITORY MATRIX (TAP ANY BUTTON TO OPEN)
+| Tactical Module | Architecture Spec | Direct Access |
+| :--- | :--- | :---: |
+| **[Neural-Intrusion-Grid](https://github.com/hamza-evolution/Neural-Intrusion-Grid)** | 60FPS Autonomous Swarm Telemetry & Edge Router | [![Open](https://img.shields.io/badge/OPEN_REPO-00FF41?style=flat-square&logo=github&logoColor=black)](https://github.com/hamza-evolution/Neural-Intrusion-Grid) |
+| **[ZeroDay-Container-Mesh](https://github.com/hamza-evolution/ZeroDay-Container-Mesh)** | Hardened Multi-Container Stealth Microservice Mesh | [![Open](https://img.shields.io/badge/OPEN_REPO-FF0055?style=flat-square&logo=github&logoColor=white)](https://github.com/hamza-evolution/ZeroDay-Container-Mesh) |
+| **[Shadow-Workflow-Daemon](https://github.com/hamza-evolution/Shadow-Workflow-Daemon)** | High-Frequency Event Trigger & Automation Daemon | [![Open](https://img.shields.io/badge/OPEN_REPO-38BDF8?style=flat-square&logo=github&logoColor=black)](https://github.com/hamza-evolution/Shadow-Workflow-Daemon) |
+| **[MCP-Cyber-Bridge](https://github.com/hamza-evolution/MCP-Cyber-Bridge)** | Zero-Token SQLite FTS5 Vault (3,000+ Recon Tools) | [![Open](https://img.shields.io/badge/OPEN_REPO-FACC15?style=flat-square&logo=github&logoColor=black)](https://github.com/hamza-evolution/MCP-Cyber-Bridge) |
+| **[boss-telegram-ai](https://github.com/hamza-evolution/boss-telegram-ai)** | 24/7 Hybrid Cloud-Edge AI Command Gateway | [![Open](https://img.shields.io/badge/OPEN_REPO-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/hamza-evolution/boss-telegram-ai) |
 
-```diff
-+ [ROOT@MAINFRAME] :: ACTIVE DAEMONS & EXPLOIT-PROOF NODES
-+ [01] Neural-Intrusion-Grid     >> 60FPS Telemetry & Swarm Control   [ONLINE]
-+ [02] ZeroDay-Container-Mesh    >> Isolated Cloud-Edge Execution     [ONLINE]
-+ [03] MCP-Cyber-Bridge          >> Zero-Token SQLite FTS5 Bypass     [ONLINE]
-! [04] Autonomous-Recon-Harvester >> Global 24/7 Data Stream Scanner  [ACTIVE]
-```
-
+### `>_` LIVE KERNEL TELEMETRY
 <div align="center">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=hamza-evolution&show_icons=true&theme=matrix&hide_border=true&bg_color=03070B&title_color=00FF41&icon_color=00E5FF&text_color=A7F3D0" /> <img height="168em" src="https://streak-stats.demolab.com?user=hamza-evolution&theme=matrix&hide_border=true&background=03070B&ring=00FF41&fire=FF0055&currStreakLabel=00FF41" />
-</div>
-
-<div align="center">
-  <img src="./assets/cyber_pulse.svg" width="100%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-evolution&bg_color=03070B&color=00FF41&line=00E5FF&point=FF0055&area=true&hide_border=true" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03070B,50:00FF41,100:00E5FF&height=115&section=footer" width="100%" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hamza-evolution&show_icons=true&theme=matrix&hide_border=true&bg_color=03070B&title_color=00FF41" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=hamza-evolution&theme=matrix&hide_border=true&background=03070B&ring=00FF41&fire=FF0055" />
 </div>
