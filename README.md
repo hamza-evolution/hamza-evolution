@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cyber_mainframe.svg" width="100%" />
+  <img src="https://boss-telegram-ai.onrender.com/cyber_banner.svg" width="100%" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1600&pause=300&color=00FF41&center=true&vCenter=true&width=820&lines=%5BROOT%40HAMZA-EVOLUTION%5D+BREACHING+LIMITS+WITH+AUTONOMOUS+AI;%5B0x01%5D+MULTI-AGENT+NEURAL+SWARMS+%26+EDGE+ROUTERS;%5B0x02%5D+HIGH-SPEED+RECON+%26+ZERO-TOKEN+KERNELS;%5B0x03%5D+ALL+SYSTEMS+LOCKED+%26+OPERATIONAL+24%2F7" />
   <img src="./assets/cyber_pulse.svg" width="100%" />
 </div>
