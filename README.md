@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://img.shields.io/badge/GPG_COMMITS-VERIFIED-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" /> <img src="https://img.shields.io/badge/CODEQL_SECURITY-PASSING-00E5FF?style=for-the-badge&logo=githubactions&logoColor=black&labelColor=0D1117" /> <img src="https://img.shields.io/badge/SECURITY_POLICY-ACTIVE-FF0055?style=for-the-badge&logo=shieldsdotio&logoColor=white&labelColor=0D1117" />
+</div>
+
+<div align="center">
   <a href="https://hamza-evolution.github.io"><img src="https://boss-telegram-ai.onrender.com/cyber_banner_v2.svg" width="100%" alt="20-Layout Cyber Banner" /></a>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&color=00FF41&center=true&vCenter=true&width=780&lines=20+STRUCTURAL+HACKER+ARCHITECTURES+ACTIVE;TAP+ANY+MODULE+BELOW+TO+LAUNCH+SOURCE+CODE;LIVE+INTERACTIVE+OS+AT+HAMZA-EVOLUTION.GITHUB.IO" />
   <br/>
@@ -18,4 +22,10 @@
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hamza-evolution&show_icons=true&theme=matrix&hide_border=true&bg_color=03070B&title_color=00FF41" />
   <img height="165em" src="https://streak-stats.demolab.com?user=hamza-evolution&theme=matrix&hide_border=true&background=03070B&ring=00FF41&fire=FF0055" />
+</div>
+
+### `>_` 3D ISOMETRIC NEURAL COMMIT TOWERS & CYBER SNAKE
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="Generating 3D Commit Towers via GitHub Actions (Ready in ~2 mins)..." />
+  <img src="./dist/github-snake-dark.svg" width="100%" alt="Generating Neon Commit Snake via GitHub Actions (Ready in ~2 mins)..." />
 </div>
