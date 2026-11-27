@@ -1,0 +1,29 @@
+name: Cyber-3D-And-Snake
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+permissions:
+  contents: write
+jobs:
+  build-visuals:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: hamza-evolution
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: hamza-evolution
+          outputs: dist/github-snake-dark.svg?palette=github-dark&color_snake=#00FF41&color_dots=#06090F,#0e4429,#006d32,#26a641,#00FF41
+      - name: Commit & Push Visuals
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@://github.com'
+          git add -A
+          git diff --staged --quiet || git commit -m 'Update 3D Towers & Cyber Snake'
+          git push
