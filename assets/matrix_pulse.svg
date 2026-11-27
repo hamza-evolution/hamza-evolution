@@ -1,0 +1,6 @@
+<svg viewBox="0 0 900 55" width="100%" xmlns="http://w3.org">
+  <rect width="900" height="55" rx="8" fill="#06090F"/>
+  <polyline fill="none" stroke="#00FF9C" stroke-width="2.5" points="0,28 120,28 145,8 165,48 185,15 205,38 225,28 420,28 445,6 465,49 485,12 505,28 700,28 725,9 745,47 765,28 900,28" stroke-dasharray="900" stroke-dashoffset="900">
+    <animate attributeName="stroke-dashoffset" values="900;0" dur="2.4s" repeatCount="indefinite"/>
+  </polyline>
+</svg>
